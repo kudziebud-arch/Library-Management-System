@@ -180,48 +180,7 @@ CREATE TABLE seat_reservation (
 
 ## 🖼️ Screenshots
 
-> 📌 Place all images inside a folder named **screenshots/** in your project.
-
-### 🔐 Login Page
-
-![Login](screenshots/login.png)
-
-### 👨‍💼 Librarian Dashboard
-
-![Librarian](screenshots/librarian_dashboard.png)
-
-### 🧑‍🎓 Student Dashboard
-
-![Student](screenshots/student_dashboard.png)
-
-### 👨‍🏫 Faculty Dashboard
-
-![Faculty](screenshots/faculty_dashboard.png)
-
-### 📖 Books Management
-
-![Books](screenshots/books.png)
-
-### 📋 Book Issue
-
-![Book Issue](screenshots/book_issue.png)
-
-### 🪑 Seat Reservation
-
-![Seat](screenshots/seat_reservation.png)
-
-### 📊 Reports
-
-![Reports](screenshots/reports.png)
-
-### 👤 Student Profile
-
-![Student Profile](screenshots/student_profile.png)
-
-### 👤 Faculty Profile
-
-![Faculty Profile](screenshots/faculty_profile.png)
-
+> 📌 images inside a folder named **screenshots/** in my project.
 ---
 
 ## ▶️ How to Run
